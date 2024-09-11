@@ -1,0 +1,4 @@
+FIDO: KPA
+Years:44
+Pets: 3
+Salary: 10000
