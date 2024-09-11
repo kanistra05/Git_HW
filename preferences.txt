@@ -1,0 +1,5 @@
+favorite_film: Propavsha_Gramota
+Favorite_serial: breaking bad
+Favorite_food: Meat
+Season: Spring
+Country: USA
